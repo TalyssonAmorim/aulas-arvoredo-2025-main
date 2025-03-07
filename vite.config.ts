@@ -18,5 +18,5 @@ export default defineConfig(({ mode }) => ({
     alias: {
       "@": path.resolve(__dirname, "./src"),
     },
-  },base: "/aulas-arvoredo-2025-main"
+  },
 }));
